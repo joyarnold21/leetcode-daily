@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/joyarnold21/leetcode-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/joyarnold21/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/joyarnold21/leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/joyarnold21/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/joyarnold21/leetcode-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/joyarnold21/leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/joyarnold21/leetcode-daily/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/joyarnold21/leetcode-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/joyarnold21/leetcode-daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/joyarnold21/leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/joyarnold21/leetcode-daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
