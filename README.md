@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/joyarnold21/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joyarnold21/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/joyarnold21/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/joyarnold21/leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/joyarnold21/leetcode-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/joyarnold21/leetcode-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/joyarnold21/leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/joyarnold21/leetcode-daily/tree/master/0016-3sum-closest) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/joyarnold21/leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/joyarnold21/leetcode-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/joyarnold21/leetcode-daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/joyarnold21/leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/joyarnold21/leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/joyarnold21/leetcode-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
