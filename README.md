@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/joyarnold21/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joyarnold21/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/joyarnold21/leetcode-daily/tree/master/0027-remove-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/joyarnold21/leetcode-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/joyarnold21/leetcode-daily/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/joyarnold21/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/joyarnold21/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joyarnold21/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/joyarnold21/leetcode-daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/joyarnold21/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sorting
 |  |
