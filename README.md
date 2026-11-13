@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/joyarnold21/leetcode-daily/tree/master/0009-palindrome-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/joyarnold21/leetcode-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/joyarnold21/leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/joyarnold21/leetcode-daily/tree/master/2409-count-days-spent-together) |
